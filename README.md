@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/sudarshawijesooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudarshawijesooriya" height="30" width="40" /></a>
 <a href="https://twitter.com/sudarshabandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudarshabandara" height="30" width="40" /></a>
 <a href="https://instagram.com/_.s.u.d.a._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.s.u.d.a._" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sudarshadesign" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sudarshadesign" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@SudarshaDesign" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sudarshadesign" height="30" width="40" /></a>
 <a href="https://discord.gg/eGyCJzQzXX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eGyCJzQzXX" height="30" width="40" /></a>
 </p>
 
